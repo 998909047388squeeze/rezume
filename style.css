@@ -1,0 +1,32 @@
+
+body {
+    background-color: grey; 
+}
+
+h1{
+    color: white;
+    position: absolute;
+    top: -40px; 
+    margin-left: 1000px;
+    font-size: 70px;
+    font-weight: 900;
+}
+h2{
+    color: white;
+    position: absolute;
+    top: 70px; 
+    margin-left: 700px;
+    font-size: 50px;
+    font-weight: 600;
+}
+.text{
+    color: white;
+    position: absolute;
+    top: 180px; 
+    margin-left: 680px;
+    font-size: 30px;
+}
+#photo{
+    height: 700px;
+    width: 500px;
+}   
